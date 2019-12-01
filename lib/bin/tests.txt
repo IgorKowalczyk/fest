@@ -1,0 +1,14 @@
+/* PRELOADER (FROM /lib/js/index.js ) */
+
+var preload = document.createElement('div');
+preload.className = "preloader-site";
+preload.innerHTML = '</div><div class="spinner-site"></div>';
+document.body.appendChild(preload);
+window.addEventListener('load', function() {
+preload.className +=  ' fade';
+setTimeout(function(){
+preload.style.display = 'none';
+},500);
+})
+
+/* /PRELOADER (FROM /lib/js/index.js ) */
