@@ -1,0 +1,17 @@
+{
+  "name": "fest.css",
+  "main": "download/fest.css",
+  "version": "0.8.1",
+    "dependencies": {
+    "jquery": "~3.4.1"
+  "homepage": "https://igorkowalczyk.github.io/fest",
+  "authors": [
+    "Igor Kowalczyk"
+  ],
+  "description": "A modern, free, simple, responsive framework based on CSS and JS
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/igorkowalczyk/fest.git"
+  }
+}

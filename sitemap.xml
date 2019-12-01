@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>https://igorkowalczyk.github.io/fest/</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/start</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/grid</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/tables</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/color</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/shadow</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/pulse</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/typography</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/tooltip</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/ripple</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/footer</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/buttons</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/parallax</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/gallery</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/preloader</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/nav</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/modal</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/carousel</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/dropdown</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/snackbar</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/select</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/inputs</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/radio</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/checkboxes</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/pickers</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/switches</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/range</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/grid-demo</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/nav-sticky-demo</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/parallax-demo</loc></url>
+<url><loc>https://igorkowalczyk.github.io/fest/nav-demo</loc></url>
+</urlset>
