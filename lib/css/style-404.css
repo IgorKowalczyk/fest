@@ -1,4 +1,7 @@
-/* (c) IGOR KOWALCZYK 2018-2019. All rights reserved. */
+/* (c) IGOR KOWALCZYK. All rights reserved. */
+
 /* 404 */
+
 @media screen and (max-width:500px){div{height: 100vw;width:100vw !important;transition: 500ms all ease-out;}body{overflow: hidden;}}*{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;box-sizing:border-box;color:inherit;}}@-webkit-keyframes fadeIn{0%{opacity:0}100%{opacity:1;}}html{background:#fff;}body{-webkit-animation: fadeIn 1s ease-in; animation: fadeIn 1s ease-in;background-attachment: fixed;height:100vh;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;word-break:break-word;-webkit-font-smoothing:antialiased;margin:0;padding:0;font-family:'Roboto-Thin'!important;}div{height: auto;background:#272822;width:70vw;position:relative;top:50%;transform:translateY(-50%);margin:0 auto;padding:30px 30px 10px;box-shadow: 0 0 150px -20px rgba(0, 0, 0, 0.5);z-index:3;}p{font-family:'Roboto-Thin';color: #a6e22e;margin:0 0 20px;font-size:17px;line-height:1.2;}span{color:#f92672;}i{color:#8abeb7;}.console a{text-decoration:none; color: #fff !important;}b{color:#81a2be;}.no-javascript-message{background:#f44336;padding:20px;font-family:'Roboto-Thin';color:#fff;text-align:center;}.no-javascript-message:after{content:'To view the page please enable javascript in your browser';}.no-javascript{height:100%;width:100%;position:fixed;text-align:center;z-index:9999999;cursor:not-allowed;background:#fff;}white{color: #fff;}@-webkit-keyframes fadeIn{0%{opacity:0;}100%{opacity:1;}}.spinner-site{background: #fff !important;}
+
 /* /404 */

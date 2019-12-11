@@ -1,17 +1,15 @@
-/* (c) IGOR KOWALCZYK 2018-2019. All rights reserved.
+/* (c) IGOR KOWALCZYK. All rights reserved.
 *
 * AUTHOR - IGOR KOWALCZYK
-* https://igorkowalczyk.github.io/fest/
+* https://igorkowalczyk.github.io
 *
 * SRC OF THE FILE:
-* https://igorkowalczyk.github.io/fest/download/fest.css
+* https://igorkowalczyk.github.io/fest/download/fest.js
 *
 * RELASED UNDER THE MIT
 * https://igorkowalczyk.github.io/fest/LICENSE.txt
 *
-* RELASE DATE OF THE VERSION:
-* 2019-08-19
-*
+*/
 */
 
 /* INDETERMINATE CHECKBOX */
