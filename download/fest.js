@@ -10,7 +10,6 @@
 * https://igorkowalczyk.github.io/fest/LICENSE.txt
 *
 */
-*/
 
 /* INDETERMINATE CHECKBOX */
 
