@@ -130,19 +130,19 @@ text-align: justify;
 /* CAROUSEL */
 
 #image-carousel .handle .img1 {
-background-image: url('https://aurolia-css.github.io/lib/pics/gallery/1000x500.png');
+background-image: url('https://igorkowalczyk.github.io/fest/lib/pics/gallery/1000x500.png');
 }
 
 #image-carousel .handle .img2 {
-background-image: url('https://aurolia-css.github.io/lib/pics/gallery/1000x500.png');
+background-image: url('https://igorkowalczyk.github.io/fest/lib/pics/gallery/1000x500.png');
 }
 
 #image-carousel .handle .img3 {
-background-image: url('https://aurolia-css.github.io/lib/pics/gallery/1000x500.png');
+background-image: url('https://igorkowalczyk.github.io/fest/lib/pics/gallery/1000x500.png');
 }
 
 #image-carousel .handle .img4 {
-background-image: url('https://aurolia-css.github.io/lib/pics/gallery/1000x500.png');
+background-image: url('https://igorkowalczyk.github.io/fest/lib/pics/gallery/1000x500.png');
 }
 
 /* /CAROUSEL */
@@ -549,7 +549,7 @@ animation: heartbeat 2s infinite
 
 @font-face {
 font-family: 'Inconsolata-Regular';
-src:url(https://aurolia-css.github.io/lib/fonts/inconsolata/Inconsolata-Regular.otf);
+src:url(https://igorkowalczyk.github.io/fest/lib/fonts/inconsolata/Inconsolata-Regular.otf);
 }
 
 /* /Inconsolata-Regular */
@@ -558,7 +558,7 @@ src:url(https://aurolia-css.github.io/lib/fonts/inconsolata/Inconsolata-Regular.
 
 @font-face {
 font-family: 'Inconsolata-Bold';
-src:url(https://aurolia-css.io/lib/fonts/inconsolata/Inconsolata-Bold.otf);
+src:url(https://igorkowalczyk.github.io/fest/lib/fonts/inconsolata/Inconsolata-Bold.otf);
 }
 
 /* /Inconsolata-Bold */
@@ -571,7 +571,7 @@ src:url(https://aurolia-css.io/lib/fonts/inconsolata/Inconsolata-Bold.otf);
 
 @font-face {
 font-family: 'Roboto-Bold';
-src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Bold.otf);
+src:url(https://igorkowalczyk.github.io/fest/lib/fonts/roboto/Roboto-Bold.otf);
 }
 
 /* /Roboto-Bold */
@@ -580,7 +580,7 @@ src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Bold.otf);
 
 @font-face {
 font-family: 'Roboto-Condensed';
-src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Condensed.otf);
+src:url(https://igorkowalczyk.github.io/fest/lib/fonts/roboto/Roboto-Condensed.otf);
 }
 
 /* /Roboto-Condensed */
@@ -589,7 +589,7 @@ src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Condensed.otf);
 
 @font-face {
 font-family: 'Roboto-Medium';
-src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Medium.otf);
+src:url(https://igorkowalczyk.github.io/fest/lib/fonts/roboto/Roboto-Medium.otf);
 }
 
 /* /Roboto-Medium */
@@ -598,7 +598,7 @@ src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Medium.otf);
 
 @font-face {
 font-family: 'Roboto-Regular';
-src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Regular.otf);
+src:url(https://igorkowalczyk.github.io/fest/lib/fonts/roboto/Roboto-Regular.otf);
 }
 
 /* /Roboto-Regular */
@@ -607,7 +607,7 @@ src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Regular.otf);
 
 @font-face {
 font-family: 'Roboto-Light';
-src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Light.otf);
+src:url(https://igorkowalczyk.github.io/fest/lib/fonts/roboto/Roboto-Light.otf);
 }
 
 /* /Roboto-Light */
@@ -616,7 +616,7 @@ src:url(https://aurolia-css.io/lib/fonts/roboto/Roboto-Light.otf);
 
 @font-face {
 font-family: 'Roboto-Thin';
-src:url(https://aurolia-css.github.io/lib/fonts/roboto/Roboto-Thin.otf);
+src:url(https://igorkowalczyk.github.io/fest/lib/fonts/roboto/Roboto-Thin.otf);
 }
 
 /* /Roboto-Thin */
