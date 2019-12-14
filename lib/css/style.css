@@ -304,6 +304,8 @@ overflow-x: hidden !important;
 * {
 margin: 0;
 padding: 0;
+scrollbar-color: #00a3a3 transparent;
+scrollbar-width: thin;
 }
 
 body {
