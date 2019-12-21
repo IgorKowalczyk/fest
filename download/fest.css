@@ -1565,7 +1565,7 @@ bottom: 0;
 left: 0;
 right: 0;
 border-radius: 0;
-background-color: none;
+background: none;
 height: auto;
 }
 
@@ -1575,7 +1575,7 @@ border-radius: 0;
 }
 
 .slide-to-unlock .disabled {
-background-color: none;
+background: none;
 }
 
 .slide-to-unlock .slide-text {
@@ -2921,8 +2921,8 @@ text-align: right !Important;
 }
 
 .align-left {
-text-align:left !Important;
-align-items:left !important
+text-align: left !Important;
+align-items: left !important
 }
 
 header h1::after {
@@ -3020,7 +3020,6 @@ abbr[title] {
 border-bottom: none;
 text-decoration: underline;
 -webkit-text-decoration: underline dotted;
--moz-text-decoration: underline dotted;
 text-decoration: underline dotted;
 }
 
