@@ -17,4 +17,4 @@ Framework
 
 <hr />
 
-Copyright (c) <a href="https://aurolia-css.github.io">Aurolia.css</a> 2018-2019. Code released under the MIT license.
+Copyright (c) <a href="https://igorkowalczyk.github.io/fest">Fest.css</a> 2018-2019. Code released under the MIT license.
