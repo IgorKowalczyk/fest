@@ -7,7 +7,7 @@
 * https://igorkowalczyk.github.io/fest/download/fest.js
 *
 * RELASED UNDER THE MIT
-* https://igorkowalczyk.github.io/fest/LICENSE.txt
+* https://igorkowalczyk.github.io/fest/license.txt
 *
 */
 
