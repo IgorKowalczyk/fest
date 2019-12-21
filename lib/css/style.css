@@ -1,4 +1,4 @@
-﻿/* (c) IGOR KOWALCZYK. All rights reserved. */
+/* (c) IGOR KOWALCZYK. All rights reserved. */
 
 /* NO JS */
 
@@ -331,6 +331,10 @@ opacity: 1;
 /* /BODY */
 
 /* CONTENT */
+
+.sidenav {
+scrollbar-width: none;
+}
 
 .center-select {
 position: auto;
