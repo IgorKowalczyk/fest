@@ -1,0 +1,10 @@
+baseurl: "/fest/"
+url: "https://igorkowalczyk.github.io/fest"
+twitter_username:
+github_username:  IgorKowalczyk
+timezone: 'Europe/Warsaw'
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
