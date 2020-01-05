@@ -1018,3 +1018,31 @@ x[i].classList.add("select-hide");
 document.addEventListener("click", closeAllSelect);
 
 /* /SELECT */
+
+/* INCLUDE */
+
+function include() {
+var index, load, element, file, xhttp;
+index = document.getElementsByTagName("*");
+for (load = 0; load < index.length; load++) {
+element = index[load];
+file = element.getAttribute("data-include");
+if (file) {
+xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4) {
+if (this.status == 200) {element.innerHTML = this.responseText;}
+if (this.status == 404) {element.innerHTML = "<div class='card'>Page not found. Cannot load file.</div>";}
+element.removeAttribute("data-include");
+include();
+}
+}
+xhttp.open("GET", file, true);
+xhttp.send();
+return;
+}
+}
+}
+// Need init: "include();"
+
+/* /INCLUDE */
