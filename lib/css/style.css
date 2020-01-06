@@ -46,6 +46,7 @@ background:#f44336;
 #particles {
 position: absolute;
 z-index: -20 !important;
+opacity: 0.75;
 top: 0;
 }
 
