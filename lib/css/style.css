@@ -1,4 +1,4 @@
-/* (c) IGOR KOWALCZYK. All rights reserved. */
+﻿/* (c) IGOR KOWALCZYK. All rights reserved. */
 
 /* NO JS */
 
@@ -309,8 +309,8 @@ scrollbar-width: thin;
 }
 
 body {
--webkit-animation: fadeIn 1s ease-in;
-animation: fadeIn 1s ease-in;
+-webkit-animation: fade 1s ease-in;
+animation: fade 1s ease-in;
 -webkit-font-smoothing: antialiased;
 margin: 0;
 padding: 0;
@@ -319,7 +319,21 @@ overflow: initial !important;
 font-family: 'Roboto-Thin' !important;
 }
 
-@-webkit-keyframes fadeIn {
+.fade-out-body {
+-webkit-animation: fade-out 1s ease-in;
+animation: fade-out 1s ease-in;
+}
+
+@-webkit-keyframes fade-out {
+0% {
+opacity: 1;
+}
+100% {
+opacity: 0;
+}
+}
+
+@-webkit-keyframes fade {
 0% {
 opacity: 0;
 }
