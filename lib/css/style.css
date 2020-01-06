@@ -311,6 +311,7 @@ scrollbar-width: thin;
 body {
 -webkit-animation: fade 1s ease-in;
 animation: fade 1s ease-in;
+transition: 1s opacity;
 -webkit-font-smoothing: antialiased;
 margin: 0;
 padding: 0;
@@ -320,17 +321,7 @@ font-family: 'Roboto-Thin' !important;
 }
 
 .fade-out-body {
--webkit-animation: fade-out 1s ease-in;
-animation: fade-out 1s ease-in;
-}
-
-@-webkit-keyframes fade-out {
-0% {
-opacity: 1;
-}
-100% {
 opacity: 0;
-}
 }
 
 @-webkit-keyframes fade {
