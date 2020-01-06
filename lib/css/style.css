@@ -311,17 +311,13 @@ scrollbar-width: thin;
 body {
 -webkit-animation: fade 1s ease-in;
 animation: fade 1s ease-in;
-transition: 1s opacity;
+transition: opacity 500ms;
 -webkit-font-smoothing: antialiased;
 margin: 0;
 padding: 0;
 overflow: auto !important;
 overflow: initial !important;
 font-family: 'Roboto-Thin' !important;
-}
-
-.fade-out-body {
-opacity: 0;
 }
 
 @-webkit-keyframes fade {
