@@ -306,8 +306,8 @@ scrollbar-width: thin;
 }
 
 body {
--webkit-animation: fade 1s ease-in;
-animation: fade 1s ease-in;
+-webkit-animation: fade 500ms ease-in;
+animation: fade 500ms ease-in;
 transition: opacity 500ms;
 -webkit-font-smoothing: antialiased;
 margin: 0;
