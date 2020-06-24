@@ -28,30 +28,24 @@
 <!-- /CSS & JS -->
 ```
 
-<p align="center"> From CDNJS</p>
+### Download Assets
 
-```text
-Soon :/
-```
+(The full version includes (except Fest.css) a set of Font Awesome icons and a Jquery framework)
 
-<h2 align="center">Download Assets</h2>
+<a href="https://igorkowalczyk.github.io/fest/download/fest.zip" title="Download will start automatically">Click to download full version</a>
 
-<p align="center">(The full version includes (except Fest.css) a set of Font Awesome icons and a Jquery framework.)</p>
+<a href="https://igorkowalczyk.github.io/fest/download/fest-jquery.zip" title="Download will start automatically">Click to download without Jquery (Not recommended!)</a>
 
-<p align="center"><a href="https://igorkowalczyk.github.io/fest/download/fest.zip" title="Download will start automatically">Click to download full version</a></p>
+<a href="https://igorkowalczyk.github.io/fest/download/fest-fa.zip" title="Download will start automatically">Click to download without Font Awesome (Not recomended!)</a>
 
-<p align="center"><a href="https://igorkowalczyk.github.io/fest/download/fest-jquery.zip" title="Download will start automatically">Click to download without Jquery (Not recommended!)</a></p>
+<a href="https://igorkowalczyk.github.io/fest/download/fest-jquery-fa.zip" title="Download will start automatically">Click to download without Jquery and Font Awesome (Not recomended!)</a>
+[Click to download without Jquery and Font Awesome (Not recomended!)](https://igorkowalczyk.github.io/fest/download/fest-jquery-fa.zip)
 
-<p align="center"><a href="https://igorkowalczyk.github.io/fest/download/fest-fa.zip" title="Download will start automatically">Click to download without Font Awesome (Not recomended!)</a></p>
-
-<p align="center"><a href="https://igorkowalczyk.github.io/fest/download/fest-jquery-fa.zip" title="Download will start automatically">Click to download without Jquery and Font Awesome (Not recomended!)</a></p>
-
-<hr />
-<h2 align="center">Structure</h2>
+### Structure
 
 <p align="center">After downloading the .zip file you will see the following files, in full version (with descriptions etc.) and in minimized version (without descriptions etc.)</p>
 
-<p align="center">Full version (Recomended!)</p>
+Full version (Recomended!)
 
 ```text
 fest.zip/
@@ -72,7 +66,7 @@ fest.zip/
         └── fontawesome+brands.min.css
 ```
 
-<p align="center">Without Jquery (Not recomended!)</p>
+Without Jquery (Not recomended!)
 
 ```text
 fest-jquery.zip/
@@ -89,7 +83,7 @@ fest-jquery.zip/
         └── fontawesome+brands.min.css
 ```
 
-<p align="center">Without Font Awesome (Not Recomended!)</p>
+Without Font Awesome (Not Recomended!)
 
 ```text
 fest-fa.zip/
@@ -105,7 +99,7 @@ fest-fa.zip/
       └── jquery-ui.min.js
 ```
 
-<p align="center">Without Jquery and Font Awesome (Not Recomended!)</p>
+Without Jquery and Font Awesome (Not Recomended!)
 
 ```text
 fest-jquery-fa.zip/
@@ -116,25 +110,14 @@ fest-jquery-fa.zip/
       ├── fest.js
       └── fest.min.js
 ```
-<hr />
 
-<p align="center">Browser support.</p>
+# Browser support
  
 - IE 11
-
 - Edge 18
-
 - Firefox 68
-
 - Safari 12
-
 - Opera 60
-
 - Chrome 75
-
 - iOS 12
-
 - Android 4
-
-<hr />
-<p align="left">Copyright (c) Fest.css 2018-2019. Code released under the MIT license.
