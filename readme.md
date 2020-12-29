@@ -1,12 +1,9 @@
-<a href="https://igorkowalczyk.github.io/fest">
-<img src="https://igorkowalczyk.github.io/fest/lib/pics/logo-readme.svg" alt="Your browser does not support SVG" width="300" height="275"></a>
-
-<a href="https://github.com/igorkowalczyk/fest/blob/master/license.txt"><img alt="GitHub" src="https://img.shields.io/github/license/igorkowalczyk/fest?style=flat-square"></a><a href="https://github.com/igorkowalczyk/fest/issues"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/igorkowalczyk/fest?color=green&style=flat-square"></a> <a href="https://github.com/igorkowalczyk/fest/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/igorkowalczyk/fest?color=green&style=flat-square"></a> <a href="https://github.com/igorkowalczyk/fest"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/igorkowalczyk/fest?color=green&style=flat-square"></a> <a href="https://igorkowalczyk.github.io/fest"><img alt="Website" src="https://img.shields.io/website/https/aurolia-css.github.io?down_color=red&down_message=offline&style=flat-square&up_color=green&up_message=online"></a> <a href="https://gitter.im/Aurolia-css/community"><img alt="Gitter" src="https://img.shields.io/gitter/room/aurolia-css/community?color=green&style=flat-square"></a>
-
-# THIS REPOSITORY MAY BE BROKEN AND MAY NOT WORK PROPERLY
+> ### This repository is outdated. Do not use it on production!
 
 # Fest.css
-A modern, free, simple, responsive framework based on CSS and JS
+A modern, free, simple, responsive framework based on CSS and JavaScript
+
+<a href="https://github.com/igorkowalczyk/fest/blob/master/license.txt"><img alt="GitHub" src="https://img.shields.io/github/license/igorkowalczyk/fest?style=flat-square"></a><a href="https://github.com/igorkowalczyk/fest/issues"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/igorkowalczyk/fest?color=green&style=flat-square"></a> <a href="https://github.com/igorkowalczyk/fest/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/igorkowalczyk/fest?color=green&style=flat-square"></a> <a href="https://github.com/igorkowalczyk/fest"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/igorkowalczyk/fest?color=green&style=flat-square"></a> <a href="https://igorkowalczyk.github.io/fest"><img alt="Website" src="https://img.shields.io/website/https/aurolia-css.github.io?down_color=red&down_message=offline&style=flat-square&up_color=green&up_message=online"></a> <a href="https://gitter.im/Aurolia-css/community"><img alt="Gitter" src="https://img.shields.io/gitter/room/aurolia-css/community?color=green&style=flat-square"></a>
 
 # Get Started
 
